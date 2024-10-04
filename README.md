@@ -180,3 +180,4 @@ Answer ➡️ Only if you're using a very old version of Instagram. But the scri
 ## License 📜
 
 [![License](https://img.shields.io/github/license/new92/IGFI?style=for-the-badge)](https://github.com/new92/IGFI/blob/main/LICENSE.md)
+Its a program automated by amrit (noob- hackers
